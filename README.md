@@ -7,6 +7,7 @@ Sistem Tiga Dua is still in development.
 
 ## Gallery
 Screenshots are taken from a development build.
+
 ![Level 2 Spawn](https://github.com/user-attachments/assets/79ef7f33-b258-4490-90fa-f964fbc6e904)
 ![Interaction with NPC](https://github.com/user-attachments/assets/9296aaec-7560-4a26-80e0-944fd84552fb)
 ![Level 2 Saving an NPC](https://github.com/user-attachments/assets/b54bc4f4-8954-4599-bd45-1156dadd1496)
